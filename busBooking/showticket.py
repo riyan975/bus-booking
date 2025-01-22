@@ -16,7 +16,7 @@ class TicketShow:
                     break
         #print(bln)  
         print("------------------------------------------------------------------------------")
-        print("                          Ankush Nag Bus Travel                               ")
+        print("                          ROYAL Bus Travel                               ")
         print("------------------------------------------------------------------------------")
         print()
         print(" e_Ticket :", "NUZVID Address              : RGUKT IIIT collage")
